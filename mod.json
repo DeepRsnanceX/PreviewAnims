@@ -1,0 +1,14 @@
+{
+	"geode": "4.6.2",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "saritahhh.previewanims",
+	"name": "PreviewAnims",
+	"version": "v1.0.0",
+	"developer": "Saritahhh",
+	"description": "Preview Robot/Spider anims!"
+}
